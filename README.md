@@ -1,2 +1,2 @@
-# shadcn-ui-examples
+# React & shadcn-ui-examples
  Shadcn UI example collection
